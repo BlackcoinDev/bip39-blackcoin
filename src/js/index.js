@@ -2382,7 +2382,7 @@
             },
         },
         {
-            name: "BLK - BlackCoin",
+            name: "BLK - Blackcoin",
             onSelect: function() {
                 network = libs.bitcoin.networks.blackcoin;
                 setHdCoin(10);

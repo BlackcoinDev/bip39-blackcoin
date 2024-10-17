@@ -882,7 +882,7 @@ it('Allows selection of AXE', function(done) {
 });
 it('Allows selection of BlackCoin', function(done) {
     var params = {
-        selectText: "BLK - BlackCoin",
+        selectText: "BLK - Blackcoin",
         phrase: "abandon abandon ability",
         firstAddress: "B5MznAKwj7uQ42vDz3w4onhBXPcqhTwJ9z",
         firstPubKey: "03f500b73bad9955fbe26a27bbeefa4ec00119532449eeccfb1f021cafa638d046",
